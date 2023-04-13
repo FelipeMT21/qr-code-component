@@ -37,10 +37,6 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### O que aprendi
 
-Use esta seção para recapitular alguns de seus principais aprendizados enquanto trabalha neste projeto. Escrevê-los e fornecer exemplos de código de áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento.
-
-Para ver como você pode adicionar trechos de código, veja abaixo:
-
 ```html
 <h1><div class="white">
     <div>
