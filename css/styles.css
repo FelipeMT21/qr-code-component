@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    padding: 100px 0;
+}
+
+h2, p{
+    font-family: 'Outfit', sans-serif;
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
+.white{
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    padding: 16px;
+    width: 20%;
+}
+
+
+.qr-code{
+    border-radius: 8px;
+    margin: auto;
+    width: 100%;
+}
+
+.text{
+    width: 90%;
+    margin: auto;
+}
+
+.attribution {
+    margin-top: 2rem;
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a {
+color: hsl(228, 45%, 44%); 
+}
